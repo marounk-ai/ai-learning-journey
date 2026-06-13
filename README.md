@@ -18,8 +18,7 @@ Start date: June 2026
 
 | Week | Theme | Status | Key Deliverable |
 |------|-------|--------|-----------------|
-| 1 | Orientation & AI Map | ✅ Complete | AI Landscape Map, 25 Use-Case Library |
-
+| 1 | Orientation & AI Map | ✅ Complete | AI Landscape Map, Use-Case Library (25 cases) |
 ---
 
 ## Repository Structure
